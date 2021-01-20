@@ -1,0 +1,213 @@
+Company,Flight,From,To,Status,Scheduled_Departure_Hour_CST,Real_Departure_Hour_CST,Flight_Departure_Times
+,,,,,,,
+Cargolux,CV 8592,Mexico City,Luxembourg,Arrived,21:30,01:27,18-Jan-2021
+,,,,,,,
+Aeromexico,AM 21,Mexico City,Madrid,Arrived,22:55,23:19,18-Jan-2021
+,,,,,,,
+Air Europa,UX 2452,Mexico City,Madrid,Arrived,22:55,23:19,18-Jan-2021
+,,,,,,,
+El Al,LY 8204,Mexico City,Madrid,Arrived,22:55,23:19,18-Jan-2021
+,,,,,,,
+Aeromexico,AM 654,Mexico City,Santo Domingo,Arrived,23:55,23:52,18-Jan-2021
+,,,,,,,
+ANA,NH 179,Mexico City,Tokyo,Arrived,01:00,00:49,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 3302,Mexico City,Atlanta,Arrived,01:20,01:19,19-Jan-2021
+,,,,,,,
+Korean Air,KE 7606,Mexico City,Atlanta,Arrived,01:20,01:19,19-Jan-2021
+,,,,,,,
+Air Canada,AC 994,Mexico City,Toronto,Arrived,01:20,01:20,19-Jan-2021
+,,,,,,,
+SA AVIANCA,AV 6928,Mexico City,Toronto,Arrived,01:20,01:20,19-Jan-2021
+,,,,,,,
+Delta Air Lines,DL 590,Mexico City,Atlanta,Arrived,01:20,01:19,19-Jan-2021
+,,,,,,,
+AeroUnion,6R 270,Mexico City,Merida,Arrived,01:30,03:14,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 7968,Mexico City,Panama City,Arrived,01:35,01:31,19-Jan-2021
+,,,,,,,
+Copa Airlines,CM 149,Mexico City,Panama City,Arrived,01:35,01:31,19-Jan-2021
+,,,,,,,
+Masair,MY 6814,Mexico City,Los Angeles,Arrived,01:50,02:16,19-Jan-2021
+,,,,,,,
+SA AVIANCA,AV 45,Mexico City,Bogota,Arrived,05:00,04:51,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 8222,Mexico City,Bogota,Arrived,05:00,04:51,19-Jan-2021
+,,,,,,,
+Volaris,Y4 760,Mexico City,Hermosillo,Arrived,05:15,05:04,19-Jan-2021
+,,,,,,,
+Volaris,Y4 792,Mexico City,Culiacan,Arrived,05:30,05:17,19-Jan-2021
+,,,,,,,
+Volaris,Y4 206,Mexico City,Cancun,Cancelled,05:32,05:32,19-Jan-2021
+,,,,,,,
+Frontier Airlines,F9 6206,Mexico City,Cancun,Cancelled,05:32,05:32,19-Jan-2021
+,,,,,,,
+United Airlines,UA 1085,Mexico City,Houston,Arrived,05:40,05:29,19-Jan-2021
+,,,,,,,
+Air New Zealand,NZ 9947,Mexico City,Houston,Arrived,05:40,05:29,19-Jan-2021
+,,,,,,,
+Estafeta,E7* 615,Mexico City,Villahermosa,Arrived,05:40,06:47,19-Jan-2021
+,,,,,,,
+Volaris,Y4 736,Mexico City,Guadalajara,Arrived,05:40,05:35,19-Jan-2021
+,,,,,,,
+Volaris,Y4 724,Mexico City,Chihuahua,Arrived,05:40,05:38,19-Jan-2021
+,,,,,,,
+United Airlines,UA 820,Mexico City,San Francisco,Arrived,05:50,05:49,19-Jan-2021
+,,,,,,,
+Air Canada,AC 5403,Mexico City,San Francisco,Arrived,05:50,05:49,19-Jan-2021
+,,,,,,,
+Air New Zealand,NZ 9820,Mexico City,San Francisco,Arrived,05:50,05:49,19-Jan-2021
+,,,,,,,
+Volaris,Y4 835,Mexico City,Tijuana,Arrived,05:50,05:46,19-Jan-2021
+,,,,,,,
+Volaris,Y4 201,Mexico City,Merida,Cancelled,06:00,06:00,19-Jan-2021
+,,,,,,,
+Volaris,Y4 136,Mexico City,Villahermosa,Arrived,06:00,05:49,19-Jan-2021
+,,,,,,,
+VivaAerobus,VB 1014,Mexico City,Cancun,Arrived,06:00,06:12,19-Jan-2021
+,,,,,,,
+American Airlines,AA 1066,Mexico City,Dallas,Arrived,06:00,05:53,19-Jan-2021
+,,,,,,,
+JAL,JL 7211,Mexico City,Dallas,Arrived,06:00,05:53,19-Jan-2021
+,,,,,,,
+Volaris,Y4 608,Mexico City,La Paz,Arrived,06:10,05:57,19-Jan-2021
+,,,,,,,
+Estafeta,E7* 615,Mexico City,Villahermosa,Arrived,05:40,06:47,19-Jan-2021
+,,,,,,,
+United Airlines,UA 820,Mexico City,San Francisco,Arrived,05:50,05:49,19-Jan-2021
+,,,,,,,
+Air New Zealand,NZ 9820,Mexico City,San Francisco,Arrived,05:50,05:49,19-Jan-2021
+,,,,,,,
+Air Canada,AC 5403,Mexico City,San Francisco,Arrived,05:50,05:49,19-Jan-2021
+,,,,,,,
+Volaris,Y4 201,Mexico City,Merida,Cancelled,06:00,06:00,19-Jan-2021
+,,,,,,,
+VivaAerobus,VB 1014,Mexico City,Cancun,Arrived,06:00,06:12,19-Jan-2021
+,,,,,,,
+JAL,JL 7211,Mexico City,Dallas,Arrived,06:00,05:53,19-Jan-2021
+,,,,,,,
+Volaris,Y4 136,Mexico City,Villahermosa,Arrived,06:00,05:49,19-Jan-2021
+,,,,,,,
+American Airlines,AA 1066,Mexico City,Dallas,Arrived,06:00,05:53,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 500,Mexico City,Cancun,Arrived,06:01,06:12,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 2062,Mexico City,Ciudad Obregon,Arrived,06:01,06:22,19-Jan-2021
+,,,,,,,
+KLM,KL 9004,Mexico City,Cancun,Arrived,06:01,06:12,19-Jan-2021
+,,,,,,,
+Copa Airlines,CM 6062,Mexico City,Ciudad Obregon,Arrived,06:01,06:22,19-Jan-2021
+,,,,,,,
+SA AVIANCA,AV 6494,Mexico City,Veracruz,Arrived,06:10,09:56,19-Jan-2021
+,,,,,,,
+Copa Airlines,CM 6220,Mexico City,Villahermosa,Arrived,06:10,06:09,19-Jan-2021
+,,,,,,,
+KLM,KL 8948,Mexico City,Villahermosa,Arrived,06:10,06:09,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 187,Mexico City,Leon/Guanajuato,Arrived,06:10,06:08,19-Jan-2021
+,,,,,,,
+Delta Air Lines,DL 9098,Mexico City,Leon/Guanajuato,Arrived,06:10,06:08,19-Jan-2021
+,,,,,,,
+KLM,KL 8946,Mexico City,Leon/Guanajuato,Arrived,06:10,06:08,19-Jan-2021
+,,,,,,,
+WestJet,WS 6187,Mexico City,Leon/Guanajuato,Arrived,06:10,06:08,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 814,Mexico City,Ciudad Del Carmen,Arrived,06:10,06:14,19-Jan-2021
+,,,,,,,
+Copa Airlines,CM 6948,Mexico City,Ciudad Del Carmen,Arrived,06:10,06:14,19-Jan-2021
+,,,,,,,
+KLM,KL 8906,Mexico City,Ciudad Del Carmen,Arrived,06:10,06:14,19-Jan-2021
+,,,,,,,
+Volaris,Y4 608,Mexico City,La Paz,Arrived,06:10,05:57,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 850,Mexico City,Veracruz,Arrived,06:10,09:56,19-Jan-2021
+,,,,,,,
+Delta Air Lines,DL 7996,Mexico City,Villahermosa,Arrived,06:10,06:09,19-Jan-2021
+,,,,,,,
+Air Europa,UX 2473,Mexico City,Veracruz,Arrived,06:10,09:56,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 800,Mexico City,Villahermosa,Arrived,06:10,06:09,19-Jan-2021
+,,,,,,,
+SA AVIANCA,AV 6492,Mexico City,Villahermosa,Arrived,06:10,06:09,19-Jan-2021
+,,,,,,,
+VivaAerobus,VB 1268,Mexico City,Torreon,Unknown,06:10,Unknown,19-Jan-2021
+,,,,,,,
+Copa Airlines,CM 6211,Mexico City,Torreon,Arrived,06:15,06:13,19-Jan-2021
+,,,,,,,
+KLM,KL 9040,Mexico City,Torreon,Arrived,06:15,06:13,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 2410,Mexico City,Tampico,Arrived,06:15,06:12,19-Jan-2021
+,,,,,,,
+Copa Airlines,CM 6200,Mexico City,Tampico,Arrived,06:15,06:12,19-Jan-2021
+,,,,,,,
+Delta Air Lines,DL 8152,Mexico City,Tampico,Arrived,06:15,06:12,19-Jan-2021
+,,,,,,,
+KLM,KL 8986,Mexico City,Tampico,Arrived,06:15,06:12,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 100,Mexico City,Torreon,Arrived,06:15,06:13,19-Jan-2021
+,,,,,,,
+VivaAerobus,VB 1464,Mexico City,Campeche,Arrived,06:15,06:07,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 820,Mexico City,Merida,Arrived,06:20,06:17,19-Jan-2021
+,,,,,,,
+SA AVIANCA,AV 6442,Mexico City,Merida,Arrived,06:20,06:17,19-Jan-2021
+,,,,,,,
+Copa Airlines,CM 6178,Mexico City,Merida,Arrived,06:20,06:17,19-Jan-2021
+,,,,,,,
+Delta Air Lines,DL 8045,Mexico City,Merida,Arrived,06:20,06:17,19-Jan-2021
+,,,,,,,
+KLM,KL 9024,Mexico City,Merida,Arrived,06:20,06:17,19-Jan-2021
+,,,,,,,
+WestJet,WS 6233,Mexico City,Merida,Arrived,06:20,06:17,19-Jan-2021
+,,,,,,,
+Aeromar,VW 465,Mexico City,Colima,Arrived,06:20,06:20,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 1312,Mexico City,Tuxtla Gutierrez,Arrived,06:20,06:20,19-Jan-2021
+,,,,,,,
+KLM,KL 8912,Mexico City,Tuxtla Gutierrez,Arrived,06:20,06:20,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 702,Mexico City,Hermosillo,Arrived,06:20,06:18,19-Jan-2021
+,,,,,,,
+SA AVIANCA,AV 2664,Mexico City,Hermosillo,Arrived,06:20,06:18,19-Jan-2021
+,,,,,,,
+Copa Airlines,CM 6174,Mexico City,Hermosillo,Arrived,06:20,06:18,19-Jan-2021
+,,,,,,,
+Delta Air Lines,DL 7996,Mexico City,Villahermosa,Arrived,06:10,06:09,19-Jan-2021
+,,,,,,,
+Air Europa,UX 2473,Mexico City,Veracruz,Arrived,06:10,09:56,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 800,Mexico City,Villahermosa,Arrived,06:10,06:09,19-Jan-2021
+,,,,,,,
+SA AVIANCA,AV 6492,Mexico City,Villahermosa,Arrived,06:10,06:09,19-Jan-2021
+,,,,,,,
+VivaAerobus,VB 1268,Mexico City,Torreon,Unknown,06:10,Unknown,19-Jan-2021
+,,,,,,,
+Copa Airlines,CM 6211,Mexico City,Torreon,Arrived,06:15,06:13,19-Jan-2021
+,,,,,,,
+KLM,KL 9040,Mexico City,Torreon,Arrived,06:15,06:13,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 2410,Mexico City,Tampico,Arrived,06:15,06:12,19-Jan-2021
+,,,,,,,
+Copa Airlines,CM 6200,Mexico City,Tampico,Arrived,06:15,06:12,19-Jan-2021
+,,,,,,,
+Delta Air Lines,DL 8152,Mexico City,Tampico,Arrived,06:15,06:12,19-Jan-2021
+,,,,,,,
+KLM,KL 8986,Mexico City,Tampico,Arrived,06:15,06:12,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 100,Mexico City,Torreon,Arrived,06:15,06:13,19-Jan-2021
+,,,,,,,
+VivaAerobus,VB 1464,Mexico City,Campeche,Arrived,06:15,06:07,19-Jan-2021
+,,,,,,,
+Aeromexico,AM 820,Mexico City,Merida,Arrived,06:20,06:17,19-Jan-2021
+,,,,,,,
+SA AVIANCA,AV 6442,Mexico City,Merida,Arrived,06:20,06:17,19-Jan-2021
+,,,,,,,
+Copa Airlines,CM 6178,Mexico City,Merida,Arrived,06:20,06:17,19-Jan-2021
+,,,,,,,
+Delta Air Lines,DL 8045,Mexico City,Merida,Arrived,06:20,06:17,19-Jan-2021
+,,,,,,,
+KLM,KL 9024,Mexico City,Merida,Arrived,06:20,06:17,19-Jan-2021
+,,,,,,,
+WestJet,WS 6233,Mexico City,Merida,Arrived,06:20,06:17,19-Jan-2021
+,,,,,,,
+Aeromar,VW 465,Mexico City,Colima,Arrived,06:20,06:20,19-Jan-2021
